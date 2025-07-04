@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1751632052443
+current_stage: None
+description: ''
+last_updated_timestamp: 1751632052443
+name: Clasificacion_Vino-1000
+run_id: 4a9168d5a6df4e67b7994652c23cc567
+run_link: ''
+source: file:///c:/Users/migue/Documents/Keep_Coding/Practica_Despliegue_algoritmos/Practica_Despliegue_Algoritmos/mlruns/834189565768707494/4a9168d5a6df4e67b7994652c23cc567/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/migue/Documents/Keep_Coding/Practica_Despliegue_algoritmos/Practica_Despliegue_Algoritmos/mlruns/834189565768707494/4a9168d5a6df4e67b7994652c23cc567/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/migue/Documents/Keep_Coding/Practica_Despliegue_algoritmos/Practica_Despliegue_Algoritmos/mlruns/834189565768707494/748f60f23edf4f839dd7894b1a750f6b/artifacts
+end_time: 1751631270415
+entry_point_name: ''
+experiment_id: '834189565768707494'
+lifecycle_stage: active
+run_id: 748f60f23edf4f839dd7894b1a750f6b
+run_name: Clasificacion_Vino-5
+run_uuid: 748f60f23edf4f839dd7894b1a750f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751631266847
+status: 3
+tags: []
+user_id: migue

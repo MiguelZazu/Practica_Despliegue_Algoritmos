@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/migue/Documents/Keep_Coding/Practica_Despliegue_algoritmos/Practica_Despliegue_Algoritmos/mlruns/834189565768707494/08f435450aad4a87a14433e197e4b05e/artifacts
+deleted_time: 1751631176431
+end_time: 1751629610493
+entry_point_name: ''
+experiment_id: '834189565768707494'
+lifecycle_stage: deleted
+run_id: 08f435450aad4a87a14433e197e4b05e
+run_name: Clasificacion_Vino-n_estimators_2-min_samples_leaf_4
+run_uuid: 08f435450aad4a87a14433e197e4b05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751629597095
+status: 4
+tags: []
+user_id: migue
