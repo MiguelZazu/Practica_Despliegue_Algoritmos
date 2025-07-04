@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/migue/Documents/Keep_Coding/Practica_Despliegue_algoritmos/Practica_Despliegue_Algoritmos/mlruns/361887609218775727/e06fe736bf1a4347870bee9887561cb6/artifacts
+end_time: 1751639143809
+entry_point_name: ''
+experiment_id: '361887609218775727'
+lifecycle_stage: active
+run_id: e06fe736bf1a4347870bee9887561cb6
+run_name: Clasificacion_Vino-rf-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751639143600
+status: 3
+tags: []
+user_id: migue

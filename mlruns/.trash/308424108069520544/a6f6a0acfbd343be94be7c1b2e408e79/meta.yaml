@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/migue/Documents/Keep_Coding/Practica_Despliegue_algoritmos/Practica_Despliegue_Algoritmos/mlruns/308424108069520544/a6f6a0acfbd343be94be7c1b2e408e79/artifacts
+deleted_time: 1751639073792
+end_time: 1751638657662
+entry_point_name: ''
+experiment_id: '308424108069520544'
+lifecycle_stage: deleted
+run_id: a6f6a0acfbd343be94be7c1b2e408e79
+run_name: silent-fox-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751638657381
+status: 4
+tags: []
+user_id: migue
